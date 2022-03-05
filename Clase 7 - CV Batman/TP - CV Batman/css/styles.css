@@ -1,0 +1,36 @@
+/* Comentario */
+.footer {
+    background-color: rgba(0, 86, 119, 1);
+    color:rgba(196, 196, 196, 1);
+    text-align: center;
+}
+
+.batman {
+    margin-left: 50%;
+}
+
+h1  {text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: rgba(0, 86, 119, 1);
+    background-color: rgba(196, 196, 196, 1);
+}
+
+h3 {
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    color: rgba(0, 86, 119, 1);
+    background-color: rgba(196, 196, 196, 1);
+}
+
+.negrita  {
+    font-weight:bold;
+}
+
+.sangria  {
+    margin-left: 6%
+}
+
+.negrita_y_cursiva  {
+    font-weight:bold;
+    font-style: italic;
+}
