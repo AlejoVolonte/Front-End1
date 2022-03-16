@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+
+header{
+
+    
+}
+
+div{
+    display:flex;
+    height: 30px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+}
+
+button{
+    display: flex;
+    flex-direction: row;
+    justify-content: ;
+}
+
+p ul li{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+img{
+    display: flex;
+    background-image: url('img/bowl-and-pet-daities-on-green-background 1.png');
+    background-size: cover;
+}
